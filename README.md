@@ -1,7 +1,22 @@
 About Me
 
-i'm n2w-rc (you may call me Ota)
-and i started learning software engineering in 2019 as an 8-year-old, but because of pandemic in 2020, that paused for two years before going back to where i was in 2022 (this year it's a bit safer to go outside, moved out of the usual location and went somewhere else), which now involved more stuff about low-level programming, specifically working on gnu/linux sys just for fun.
-here, i just remained not so interactive with the internet because i'm shy. i then started learning more stuff about hardwares/electronics and science in 2023 because i learned a little too much and thought "i can work with these".
+I started learning software engineering in 2019 at eight years old. The pandemic paused that for 2020–2021, but I picked it back up in 2022. Right now, I’m into low-level programming and `tinkering` with GNU/Linux systems for fun. I'm not just interested in software development, I keep on learning hardwares/electronics, and science. It's a lot of work for someone who's active at school, but this might be worth it? Hopefully, yes.
 
-just so you know, i use nixos and endeavouros* btw.
+### Operating systems I use:
+- NixOS
+- EndeavourOS
+
+## ToDo:
+- [ ] Making o.GCOMM a better UI.
+- [ ] Making linux from scratch...
+
+## Doing:
+- Build and complete a compiler.
+- Building an autonomous multi-LLM operator.
+
+## Ongoing projects (all of them aren't published)
+- ORCA (just a placeholder name) — autonomous multi-LLM operator that runs shell/browser/IDE/GUI workflows + universal GUI control, plugins in Lua/Python/Rust, can self-heal.
+- Noni (also a placeholder name) — an architecture-specialized compiler built on top of Rust. Planned to inter-opt with Assembly.
+
+## Projects that were deprecated:
+p-zero — Rust based backend for Gentoo's Portage.
