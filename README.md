@@ -6,7 +6,7 @@ I started learning software engineering in 2019 at eight years old. The pandemic
 - NixOS
 - EndeavourOS
 ## Doing:
-- Build and complete a compiler.
+- Building a compiler.
 - Building an autonomous multi-LLM operator.
 ## Ongoing projects (all of them aren't published)
 - ORCA (just a placeholder name) — autonomous multi-LLM operator that runs shell/browser/IDE/GUI workflows + universal GUI control, plugins in Lua/Python/Rust, can self-heal.
