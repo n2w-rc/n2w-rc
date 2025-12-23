@@ -1,8 +1,7 @@
 About Me
 
-I started learning software engineering in 2019 at eight years old. The pandemic paused that for 2020–2021, but I picked it back up in 2022. Right now, I’m into low-level programming and `tinkering` with GNU/Linux systems for fun. I'm not just interested in software development, I keep on learning hardwares/electronics, and science. It's a lot of work for someone who's active at school, but this might be worth it? Hopefully, yes.
+I started learning programming in 2019 at just eight years old. But I stopped due to pandemic. (2020-2021, I think.) But I got back to this sort of hobby. I use NixOS because I can manage my stuff declaratively and such. Messing around with electronics is my style too, and then led me to learning more hardwares. I also became interested in science because of a great teacher. This might be an overwork for a student like me, and I'm not sure of it.
 
 ### Operating systems I use:
 - NixOS
 - Gentoo
-
