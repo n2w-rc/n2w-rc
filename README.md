@@ -1,4 +1,4 @@
-About Me
+## About Me
 
 _Just a random kid, trust. 👀_
 
